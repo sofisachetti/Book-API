@@ -1,0 +1,14 @@
+[
+  {
+    "ID": "51b201d6-dc17-41ab-8422-dd537527453e",
+    "NOMBRE": "PENGUIN",
+    "PAIS": "ESTADOS UNIDOS",
+    "LIBROSPUBLICADOS": 105
+  },
+  {
+    "ID": "2d2607af-6ba1-458d-9411-7334c0b12164",
+    "NOMBRE": "ALFAGUARA",
+    "PAIS": "ARGENTINA",
+    "LIBROSPUBLICADOS": 225
+  }
+]

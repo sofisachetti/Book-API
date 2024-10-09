@@ -1,0 +1,17 @@
+{
+  "name": "book-api",
+  "version": "1.0.0",
+  "description": "API to manage a library using a TCP server.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Sofia Sachetti",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10",
+    "uuid": "^10.0.0"
+  }
+}

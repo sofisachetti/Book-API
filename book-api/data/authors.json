@@ -1,0 +1,14 @@
+[
+  {
+    "ID": "a609f79d-7bd7-46b3-a91a-6b4ee490153d",
+    "NOMBRE": "JANE AUSTEN",
+    "EDAD": 41,
+    "NACIONALIDAD": "GRAN BRETANIA"
+  },
+  {
+    "ID": "19e9d000-2e9a-4c8d-82ec-6b3d0f641e2c",
+    "NOMBRE": "GABRIEL GARCIA MARQUEZ",
+    "EDAD": 87,
+    "NACIONALIDAD": "COLOMBIA"
+  }
+]

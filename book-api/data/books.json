@@ -1,0 +1,34 @@
+[
+  {
+    "ID": "c94e8011-33af-43ad-af5b-44b92ccb7231",
+    "TITULO": "JUMANJI",
+    "AUTOR": "PHILIP K. DICK",
+    "GENERO": "FICCION",
+    "EDITORIAL": "PENGUIN",
+    "ANIOPUBLICACION": 1999
+  },
+  {
+    "ID": "0c332c13-0c50-4103-ae2f-dc16aac37fed",
+    "TITULO": "ORGULLO Y PPREJUICIO",
+    "AUTOR": "JANE AUSTEN",
+    "GENERO": "ROMANCE",
+    "EDITORIAL": "PENGUIN",
+    "ANIOPUBLICACION": 1916
+  },
+  {
+    "ID": "a8e56ee9-88ca-41e8-94fc-81379cec4016",
+    "TITULO": "MUJERCITAS",
+    "AUTOR": "LOUISA MAY ALCOTT",
+    "GENERO": "FICCION",
+    "EDITORIAL": "PENGUIN",
+    "ANIOPUBLICACION": 1868
+  },
+  {
+    "ID": "d2421341-56cd-49a5-bfde-f18bc6f415ea",
+    "TITULO": "CIEN ANIOS DE SOLEDAD",
+    "AUTOR": "GABRIEL GARCIA MARQUEZ",
+    "GENERO": "FICCION",
+    "EDITORIAL": "PENGUIN",
+    "ANIOPUBLICACION": 1982
+  }
+]
